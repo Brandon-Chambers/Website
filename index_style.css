@@ -92,9 +92,8 @@
         }
         
         section {
-            margin-bottom: 50px;
-            padding-bottom: 30px;
-            border-bottom: 1px solid #ddd;
+            margin-bottom: 25px;
+            padding-bottom: 15px;
         }
         
         section:last-child {
